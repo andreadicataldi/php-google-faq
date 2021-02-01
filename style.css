@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 100px 300px;
+  font-family: "Open Sans", sans-serif;
+}
+
+h2 {
+  font-size: 24px;
+  color: #3c4043;
+  margin-bottom: 30px;
+}
+
+p {
+  font-size: 14px;
+  color: #000000de;
+  margin-bottom: 60px;
+}
